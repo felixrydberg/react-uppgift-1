@@ -53,6 +53,13 @@ body {
   align-items: center;
 }
 
+.section-1 article ul {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  width: 100%;
+}
+
 .section-1 form {
   grid-row: 2;
   display: flex;
